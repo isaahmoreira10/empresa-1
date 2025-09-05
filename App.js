@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { SafeAreaView, View, Text, TouchableOpacity, StyleSheet, ScrollView, TextInput, Alert } from 'react-native';
 
+//FORA LULA
 export default function App() {
   const [pagina, setPagina] = useState('home');
 
